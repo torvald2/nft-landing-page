@@ -30,6 +30,12 @@ body {
   font-family: var(--font-primary);
 }
 
+.logo {
+  font-family: 'Leckerli One', cursive;
+  font-size: 38px;
+
+}
+
 .container {
   display: flex;
   flex-direction: column;
